@@ -1,9 +1,0 @@
-DOMAIN-SUFFIX,www.qq.com,DIRECT
-
-# 供设备用来设置日期和时间
-DOMAIN,time-ios.apple.com,DIRECT
-DOMAIN,time.apple.com,DIRECT
-DOMAIN,time-macos.apple.com,DIRECT
-
-# 腾讯系应用使用的某些 IP 被最近版本的 GeoLite2 Country 识别为越南
-IP-CIDR,182.254.116.0/24,DIRECT
