@@ -1,4 +1,8 @@
 payload:
+
+# beike api for lianjia
+  - DOMAIN,imapi.lianjia.com
+
   - DOMAIN-SUFFIX,acl4ssr
   - DOMAIN-SUFFIX,ip6-localhost
   - DOMAIN-SUFFIX,ip6-loopback
