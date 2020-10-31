@@ -1,4 +1,7 @@
 payload:
+  # > v2fly.org
+  - DOMAIN-SUFFIX,v2fly.org  
+
   # > Pornhub
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
