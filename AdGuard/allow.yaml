@@ -47,3 +47,7 @@ cnzz.cn
 cnzz.net
 *.cnzz.net
 *.cnzz.com
+
+# fix qq video
+*.atianqi.com
+
