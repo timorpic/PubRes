@@ -3,5 +3,9 @@ host-keyword,adsite,REJECT
 # 屏蔽非死不可
 DOMAIN-SUFFIX,facebook.com,REJECT
 
-#去掉YouTube++底部广告
+# 去掉YouTube++底部广告
 ;HOST-SUFFIX,ehg-youtube.hitbox.com,REJECT
+
+# 屏蔽苹果ocsp
+DOMAIN,ocsp.apple.com,REJECT
+
