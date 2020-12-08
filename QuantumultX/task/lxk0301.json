@@ -32,7 +32,7 @@
         "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
         "config": "11 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png",
 
-        "addons": "https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/sample-import-rewrite.txt"
+        "addons": "https:\/\/raw.githubusercontent.com\/timorpic\/PubRes\/master\/QuantumultX\/task\/lxk0301.txt"
 
     ],
     "description": "lxk0301 Task by lxk0301"
