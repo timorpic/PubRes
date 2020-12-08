@@ -5,7 +5,7 @@
             "config": "10 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东App签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png"
         },
         {
-            "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=iqiyi, img-url=https://raw.githubusercontent.com/58xinian/icon/master/iqiyi.png"
+            "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=iqiyi, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png"
         },
         {
             "config": "25 3 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tieba.png"
