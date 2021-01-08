@@ -1,4 +1,10 @@
 payload:
+  # > notion
+  - DOMAIN-KEYWORD,notion
+
+  # > My site
+  - DOMAIN-KEYWORD,ecloud
+
   # > v2fly.org
   - DOMAIN-SUFFIX,v2fly.org  
 
