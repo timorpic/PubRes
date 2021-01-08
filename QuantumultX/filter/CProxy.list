@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,live.com,PROXY
 DOMAIN-SUFFIX,sharepoint.com,PROXY
 DOMAIN-SUFFIX,office.com,PROXY
 DOMAIN-SUFFIX,microsoft.com,PROXY
+
+# 加速Notion
+DOMAIN-SUFFIX,notion.so,PROXY
