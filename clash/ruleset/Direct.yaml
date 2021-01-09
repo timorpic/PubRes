@@ -2,6 +2,8 @@ payload:
 # fix wanmei zhuxian
   - DOMAIN-KEYWORD,wanmei
   - DOMAIN-KEYWORD,zhuxian
+  
+  - DOMAIN-SUFFIX,workers.dev
 
 # beike api for lianjia
   - DOMAIN,imapi.lianjia.com

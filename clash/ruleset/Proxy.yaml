@@ -24,7 +24,6 @@ payload:
 
   # > FuckLo.li
   - DOMAIN-SUFFIX,FuckLo.li
-  - DOMAIN-SUFFIX,workers.dev
 
   # > Netflav
   - DOMAIN-SUFFIX,netflav.com
