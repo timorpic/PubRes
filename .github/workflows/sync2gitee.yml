@@ -9,10 +9,7 @@ jobs:
     name: SyncRepo 
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source codes
-        uses: actions/checkout@v2
-
-      - name: sync github -> gitee
+      - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
           # 必选，需要同步的 Github 用户（源）
@@ -28,7 +25,7 @@ jobs:
           # account_type: org
           clone_style: ssh
           # 直接取当前项目的仓库名
-          static_list: ${{ github.event.repository.name }}
+          # static_list: ${{ github.event.repository.name }}
           # 还有黑、白名单，静态名单机制，可以用于更新某些指定库
           # static_list: 'repo_name,repo_name2'
           # black_list: 'repo_name,repo_name2'
