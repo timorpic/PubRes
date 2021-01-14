@@ -2,19 +2,19 @@
     "name": "My custom task",
     "task": [
         {
-            "config": "5 0 * * * https:\/\/raw.githubusercontent.com\/lxk0301\/jd_scripts\/master\/jx_sign.js, tag=京喜签到, enabled=true"
+            "config": "5 0 * * * https:\/\/gitee.com\/lxk0301\/jd_scripts\/raw\/master\/jx_sign.js, tag=京喜签到, enabled=true"
         },
         {
-            "config": "1 7 * * * https:\/\/raw.githubusercontent.com\/lxk0301\/jd_scripts\/master\/jd_nh.js, tag=京东年货节, enabled=true"
+            "config": "1 7 * * * https:\/\/gitee.com\/lxk0301\/jd_scripts\/raw\/master\/jd_nh.js, tag=京东年货节, enabled=true"
         },
         {
-            "config": "0 2 * * * https:\/\/raw.githubusercontent.com\/lxk0301\/jd_scripts\/master\/jd_cash.js, tag=签到领现金, enabled=true"
+            "config": "0 2 * * * https:\/\/gitee.com\/lxk0301\/jd_scripts\/raw\/master\/jd_cash.js, tag=签到领现金, enabled=true"
         },
         {
-            "config": "1 8,12,18 * * * https:\/\/raw.githubusercontent.com\/lxk0301\/jd_scripts\/master\/jd_bookshop.js, tag=口袋书店, enabled=true"
+            "config": "1 8,12,18 * * * https:\/\/gitee.com\/lxk0301\/jd_scripts\/raw\/master\/jd_bookshop.js, tag=口袋书店, enabled=true"
         },
         {
-            "config": "1 * * * * https:\/\/raw.githubusercontent.com\/lxk0301\/jd_scripts\/master\/jd_family.js, tag=京东家庭号, img-url=https:\/\/raw.githubusercontent.com\/58xinian\/icon\/master\/jd_family.png, enabled=true"
+            "config": "1 * * * * https:\/\/gitee.com\/lxk0301\/jd_scripts\/raw\/master\/jd_family.js, tag=京东家庭号, img-url=https:\/\/gitee.com\/58xinian\/icon\/raw\/master\/jd_family.png, enabled=true"
         }
     ],
     "description": "Task by NobyDa"
