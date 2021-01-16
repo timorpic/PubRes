@@ -1,3 +1,5 @@
+# Gitee下拉列表导Github入仓库，导入方式随意https/ssh
+
 name: Sync>Gitee
 on: 
   push:
