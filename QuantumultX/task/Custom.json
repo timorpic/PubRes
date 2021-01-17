@@ -16,9 +16,9 @@
         {
             "config": "1 * * * * https:\/\/gitee.com\/lxk0301\/jd_scripts\/raw\/master\/jd_family.js, tag=京东家庭号, img-url=https:\/\/gitee.com\/58xinian\/icon\/raw\/master\/jd_family.png, enabled=true"
         },
-		{
-			"config": "https:\/\/raw.githubusercontent.com\/LXK9301\/jd_scripts\/master\/jd_get_share_code.js, tag=获取京东活动互助码, enabled=true"
-		}
+        {
+        	"config": "* * * * * https:\/\/raw.githubusercontent.com\/LXK9301\/jd_scripts\/master\/jd_get_share_code.js, tag=京东互助码, enabled=true"
+        }
     ],
     "description": "Task by NobyDa"
 }
