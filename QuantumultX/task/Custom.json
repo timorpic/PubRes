@@ -18,6 +18,12 @@
         },
         {
         	"config": "* * * * * https:\/\/raw.githubusercontent.com\/LXK9301\/jd_scripts\/master\/jd_get_share_code.js, tag=京东互助码, enabled=true"
+        },
+        {
+            "config": "0 8,9,10 * * * https:\/\/raw.githubusercontent.com\/LXK9301\/jd_scripts\/master\/jd_nian.js, tag=京东炸年兽🧨, enabled=true"
+        },
+        {
+            "config": "20 * * * * https:\/\/raw.githubusercontent.com\/LXK9301\/jd_scripts\/master\/jd_nianCollect.js, tag=京东收🧨, enabled=true"
         }
     ],
     "description": "Task by NobyDa"
