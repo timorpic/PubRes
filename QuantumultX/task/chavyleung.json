@@ -2,13 +2,13 @@
     "name": "chavyleung_task_js",
     "task": [
         {
-            "config": "10 3 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/jddj\/jddj.js, tag=京东到家签到, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/task\/master\/jddj.png"
+            "config": "10 3 * * * https:\/\/raw.ecloud.network\/chavyleung\/scripts\/master\/jddj\/jddj.js, tag=京东到家签到, img-url=https:\/\/raw.ecloud.network\/Orz-3\/task\/master\/jddj.png"
         },
         {
-            "config": "15 3 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/ximalaya\/ximalaya.js, tag=喜马拉雅签到, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/task\/master\/ximalaya.png"
+            "config": "15 3 * * * https:\/\/raw.ecloud.network\/chavyleung\/scripts\/master\/ximalaya\/ximalaya.js, tag=喜马拉雅签到, img-url=https:\/\/raw.ecloud.network\/Orz-3\/task\/master\/ximalaya.png"
         },
         {
-            "config": "1 0 * * * https:\/\/raw.githubusercontent.com\/chavyleung\/scripts\/master\/10000\/10000.js, tag=电信营业厅, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/task\/master\/10000.png"
+            "config": "1 0 * * * https:\/\/raw.ecloud.network\/chavyleung\/scripts\/master\/10000\/10000.js, tag=电信营业厅, img-url=https:\/\/raw.ecloud.network\/Orz-3\/task\/master\/10000.png"
         }
     ],
     "description": "Task by chavyleung"
