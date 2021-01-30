@@ -2,7 +2,11 @@ payload:
 # fix wanmei zhuxian
   - DOMAIN-KEYWORD,wanmei
   - DOMAIN-KEYWORD,zhuxian
-  
+
+# fix vercel
+
+  - DOMAIN-KEYWORD,vercel
+
   - DOMAIN-SUFFIX,workers.dev
 
 # beike api for lianjia
