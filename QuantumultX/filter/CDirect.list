@@ -10,3 +10,6 @@ IP-CIDR,182.254.116.0/24,DIRECT
 
 # My site DIRECT
 DOMAIN-SUFFIX,ecloud.network,DIRECT
+
+# Cloudflare workers
+DOMAIN-SUFFIX,workers.dev,DIRECT
