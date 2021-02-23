@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,microsoft.com,PROXY
 
 # 加速Notion
 DOMAIN-SUFFIX,notion.so,PROXY
+
+# 更新JD scripts
+DOMAIN-SUFFIX,azureedge.net.net,PROXY
