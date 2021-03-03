@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,microsoft.com,PROXY
 DOMAIN-SUFFIX,notion.so,PROXY
 
 # 更新JD scripts
-DOMAIN-SUFFIX,azureedge.net.net,PROXY
+DOMAIN-SUFFIX,azureedge.net,PROXY
