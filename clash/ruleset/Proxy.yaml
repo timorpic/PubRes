@@ -1,4 +1,18 @@
 payload:
+  #
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,javsin.com
+  - DOMAIN-SUFFIX,javfim.com
+  - DOMAIN-SUFFIX,jwpcdn.com
+  - DOMAIN-SUFFIX,exosrv.com
+  - DOMAIN-SUFFIX,trwl1.com
+  - DOMAIN-SUFFIX,javsin.tv
+  - DOMAIN-SUFFIX,fucklo.li
+
   # > notion
   - DOMAIN-KEYWORD,notion
 

@@ -1,12 +1,19 @@
 payload:
+
+  - IP-CIDR,119.28.28.28/32
+  - IP-CIDR,182.254.116.0/24
+
+
+  # Direct ecloud.network
+  - DOMAIN-SUFFIX,ecloud.network
+  - DOMAIN-SUFFIX,workers.dev
+
 # fix wanmei zhuxian
   - DOMAIN-KEYWORD,wanmei
   - DOMAIN-KEYWORD,zhuxian
 
 # fix vercel
-
   - DOMAIN-KEYWORD,vercel
-
   - DOMAIN-SUFFIX,workers.dev
 
 # beike api for lianjia
@@ -913,10 +920,4 @@ payload:
   - IP-CIDR,101.198.128.0/18,no-resolve
   - IP-CIDR,101.198.192.0/19,no-resolve
   - IP-CIDR,101.199.196.0/22,no-resolve
-  - IP-CIDR,127.0.0.0/8,no-resolve
-  - IP-CIDR,10.0.0.0/8,no-resolve
-  - IP-CIDR,172.16.0.0/12,no-resolve
-  - IP-CIDR,192.168.0.0/16,no-resolve
-  - DOMAIN-SUFFIX,iqiyipic.com
-  - DOMAIN-SUFFIX,iqiyi.com
   - GEOIP,CN
