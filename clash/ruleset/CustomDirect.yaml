@@ -1,0 +1,7 @@
+payload:
+  # Readme
+  # 用于后续规则自定义使用
+
+  # Direct ecloud.network
+  - DOMAIN-SUFFIX,ecloud.network
+  - DOMAIN-SUFFIX,workers.dev
