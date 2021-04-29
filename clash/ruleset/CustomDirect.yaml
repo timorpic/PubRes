@@ -5,3 +5,11 @@ payload:
   # Direct ecloud.network
   - DOMAIN-SUFFIX,ecloud.network
   - DOMAIN-SUFFIX,workers.dev
+
+# fix wanmei zhuxian
+  - DOMAIN-KEYWORD,wanmei
+  - DOMAIN-KEYWORD,zhuxian
+
+# fix vercel
+  - DOMAIN-KEYWORD,vercel
+  - DOMAIN-SUFFIX,workers.dev
