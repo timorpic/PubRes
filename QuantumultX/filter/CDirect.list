@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,ecloud.network,DIRECT
 
 # Cloudflare workers
 DOMAIN-SUFFIX,workers.dev,DIRECT
+
+# Toutiao
+DOMAIN-SUFFIX,ib.snssdk.com,DIRECT
