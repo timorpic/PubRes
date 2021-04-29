@@ -1,0 +1,34 @@
+# FIX Instagram DNS error
+DOMAIN-SUFFIX,cdninstagram.com,PROXY
+
+# Google
+HOST-KEYWORD,google,PROXY
+
+#短链接跳转
+DOMAIN,ift.tt,PROXY
+DOMAIN-SUFFIX,t.co,PROXY
+
+# Twitter
+DOMAIN-SUFFIX,twitter.com,PROXY
+DOMAIN-SUFFIX,ytimg.com,PROXY
+
+# JDfix
+DOMAIN-SUFFIX,azureedge.net,PROXY
+
+# Microsoft
+DOMAIN-SUFFIX,live.com,PROXY
+DOMAIN-SUFFIX,sharepoint.com,PROXY
+DOMAIN-SUFFIX,office.com,PROXY
+DOMAIN-SUFFIX,microsoft.com,PROXY
+
+# 加速Notion
+DOMAIN-SUFFIX,notion.so,PROXY
+
+# 更新JD scripts
+DOMAIN-SUFFIX,azureedge.net,PROXY
+
+# apple all proxy
+DOMAIN-SUFFIX,apple.com,PROXY
+
+# bus
+IP-CIDR,74.120.175.192/32,PROXY
