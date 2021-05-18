@@ -1,6 +1,8 @@
 # FIX Instagram DNS error
 DOMAIN-SUFFIX,cdninstagram.com
 
+DOMAIN-SUFFIX,DOMAIN-SUFFIX
+
 # Google
 HOST-KEYWORD,google
 

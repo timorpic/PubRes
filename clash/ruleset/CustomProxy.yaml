@@ -1,7 +1,7 @@
 payload:
   # Readme
   # 用于后续规则自定义使用
-
+  - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
