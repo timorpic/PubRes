@@ -1,5 +1,8 @@
 host-keyword,adsite
 
+# 彩云天气
+DOMAIN,ad.caiyunapp.com
+
 # 屏蔽非死不可
 DOMAIN-SUFFIX,facebook.com
 
