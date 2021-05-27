@@ -31,6 +31,3 @@ DOMAIN-SUFFIX,azureedge.net
 
 # apple all proxy
 DOMAIN-SUFFIX,apple.com
-
-# bus
-IP-CIDR,74.120.175.192/32
